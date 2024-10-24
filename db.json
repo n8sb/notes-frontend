@@ -1,0 +1,29 @@
+{
+  "notes": [
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3b2e",
+      "content": "Test",
+      "important": true
+    },
+    {
+      "id": "40bf",
+      "content": "Test2",
+      "important": true
+    },
+    {
+      "id": "4e09",
+      "content": "test",
+      "important": true
+    },
+    {
+      "id": "ae75",
+      "content": "",
+      "important": true
+    }
+  ]
+}
